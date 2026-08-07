@@ -50,34 +50,6 @@
 
 ---
 
-# 🔥 Featured Projects
-
-## 🚀 Project 1
-> Add your project description here
-
-**Tech Used:**
-- Java
-- Spring Boot
-- MySQL
-
-**Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-
-## 🚀 Project 2
-> Add your project description here
-
-**Tech Used:**
-- React
-- Node.js
-- MongoDB
-
-⭐ Feel free to explore my repositories!
-
----
-
 # 🧠 Problem Solving
 
 <div align="center">
