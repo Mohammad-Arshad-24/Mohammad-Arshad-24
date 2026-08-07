@@ -70,14 +70,14 @@
 </div>
 
 ---
-
-# 🐍 Contribution Snake
+# 🟡 Feeding Pac-Man With My Commits
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mohammad-Arshad-24/Mohammad-Arshad-24/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Mohammad-Arshad-24/Mohammad-Arshad-24/output/pacman-contribution-graph.svg" />
 
 </div>
+
 
 ---
 
