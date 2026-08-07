@@ -88,29 +88,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Arshad-24&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Arshad-24&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Arshad-24&theme=tokyonight&no-frame=true&margin-w=10" />
-
-</div>
-
----
 
 # 📈 GitHub Activity Graph
 
