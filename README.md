@@ -22,27 +22,27 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
-### 👨‍💻 Languages
+<h4>👨‍💻 Languages</h4>
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
 </p>
 
-### 🌐 Frontend
+<h4>🌐 Frontend</h4>
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### ⚙️ Backend & Database
+<h4>⚙️ Backend & Database</h4>
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 🧰 Tools
+<h4>🧰 Tools</h4>
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
@@ -50,7 +50,7 @@
 
 ---
 
-# 🧠 Problem Solving
+<h3>🧠 Problem Solving</h3>
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 ---
 
 
-# 📈 GitHub Activity Graph
+<h3>📈 GitHub Activity Graph</h3>
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 </div>
 
 ---
-# 🟡 Feeding Pac-Man With My Commits
+<h3>🟡 Feeding Pac-Man With My Commits</h3>
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 
 ---
 
-# 📚 Currently Learning
+<h3>📚 Currently Learning</h3>
 
 ```text
 ☕ Advanced Java
@@ -89,3 +89,11 @@
 🧩 Data Structures & Algorithms
 ⚡ System Design Basics
 🤖 AI & Machine Learning
+
+<h3>🌐 Connect With Me</h3>
+
+<div align="center"> <a href="https://www.linkedin.com/in/mohammed-arshad-b198872/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </div>
+
+⭐ Thanks for visiting my profile!
+
+<br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Keep+Learning+🚀;Keep+Building+💻;Keep+Growing+🌱"/> </div> ```
