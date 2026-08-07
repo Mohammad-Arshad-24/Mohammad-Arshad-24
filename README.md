@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Java+Developer;Problem+Solver;DSA+Enthusiast;Always+Learning+New+Things" />
 
 </div>
 
@@ -10,110 +10,133 @@
 
 ## 🚀 About Me
 
-💻 I am a passionate developer who loves building things and solving problems.
+💻 Passionate developer who loves building projects, solving problems, and learning new technologies.
 
 🎯 Currently:
-- 🔭 Working on exciting projects
-- 🌱 Learning new technologies
-- 🧩 Improving my Data Structures & Algorithms skills
-- 🚀 Exploring open source contributions
+- 🔭 Building projects and improving my development skills
+- 🌱 Learning advanced Java, Web Development, and Backend technologies
+- 🧩 Practicing Data Structures & Algorithms
+- 🚀 Exploring open-source contributions
+
+💡 My goal is to become a better developer every day by writing clean code and building useful products.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
 </p>
 
-### Frontend
+### 🌐 Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Tools
+### 🧰 Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+# 🔥 Featured Projects
 
-### 🚀 Project Name
-> Short description of your project
+## 🚀 Project 1
+> Add your project description here
 
-- Tech used:
-- Key features:
-- What I learned:
+**Tech Used:**
+- Java
+- Spring Boot
+- MySQL
+
+**Features:**
+- Feature 1
+- Feature 2
+- Feature 3
 
 
-### 🚀 Project Name
-> Short description of your project
+## 🚀 Project 2
+> Add your project description here
 
-⭐ Star it if you find it useful!
+**Tech Used:**
+- React
+- Node.js
+- MongoDB
 
----
-
-## 🧠 Problem Solving
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/MOHAMMEDARSHADRIYAZ?theme=dark&font=Baloo&ext=heatmap" />
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Arshad-24&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Arshad-24&layout=compact&theme=tokyonight" />
-
-</p>
+⭐ Feel free to explore my repositories!
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Arshad-24&theme=tokyonight&row=1" />
-
-</p>
-
----
-
-## 📈 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Mohammad-Arshad-24&theme=tokyonight" />
-
-</p>
----
-## 🌐 Connect With Me
-<p>
-<a href="(https://www.linkedin.com/in/mohammed-arshad-b19887288/)">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-
-</p>
-
----
+# 🧠 Problem Solving
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+<img src="https://leetcard.jacoblin.cool/MOHAMMEDARSHADRIYAZ?theme=dark&font=Baloo&ext=heatmap" />
 
 </div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Arshad-24&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Arshad-24&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Arshad-24&theme=tokyonight&no-frame=true&margin-w=10" />
+
+</div>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Arshad-24&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mohammad-Arshad-24/Mohammad-Arshad-24/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```text
+☕ Advanced Java
+🌐 Full Stack Development
+🧩 Data Structures & Algorithms
+⚡ System Design Basics
+🤖 AI & Machine Learning
