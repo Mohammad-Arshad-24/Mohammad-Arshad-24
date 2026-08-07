@@ -83,7 +83,7 @@
 
 <h3>📚 Currently Learning</h3>
 
-```text
+
 ☕ Advanced Java
 🌐 Full Stack Development
 🧩 Data Structures & Algorithms
@@ -92,8 +92,8 @@
 
 <h3>🌐 Connect With Me</h3>
 
-<div align="center"> <a href="https://www.linkedin.com/in/mohammed-arshad-b198872/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/mohammed-arshad-b19887288/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </div>
 
 ⭐ Thanks for visiting my profile!
 
-<br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Keep+Learning+🚀;Keep+Building+💻;Keep+Growing+🌱"/> </div> ```
+<br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Keep+Learning+🚀;Keep+Building+💻;Keep+Growing+🌱"/> </div> 
